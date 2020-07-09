@@ -1,0 +1,27 @@
+.container {
+    background: rgba(0,0,0,0.1);
+    border-radius: 20px
+}
+
+.carousel {
+    background: white;
+}
+
+.carousel-inner img{
+    margin: auto;
+}
+
+.carousel-caption {
+    background: rgba(255,255,255,0.3);
+    
+}
+
+.left {
+    text-align: left;
+}
+
+#main {
+    font-size: 20px
+}
+
+
